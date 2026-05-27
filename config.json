@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderpalidate",
+        "uuid": 8923824,
+        "checksum": "w62sa"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
